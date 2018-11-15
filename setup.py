@@ -11,7 +11,6 @@ setup(
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 3'
     ],
-    install_requires=['torch>=0.4.1'],
     url='https://github.com/zh217/torch-dct',
     license='MIT',
     author='Ziyang Hu',
